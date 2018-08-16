@@ -5,4 +5,8 @@ Face detection using openCV and python
 >> 2ND run trainer.py file to train you'r datasets.
   Trainer.py will generate a trainingData.yml for you which will we stored at loaction folder name recognizer.
 >> 3RD After training your'r dataset run file name recognizer.py to check is it recognizing or not.
-    it will fetch data from the trainingData,yml and will give you the output
+    it will fetch data from the trainingData.yml and will give you the output
+
+>>>haarcascade_frontalface_default.xml
+  OPENCV IS USED FOR THE FAEC DETECTION
+
